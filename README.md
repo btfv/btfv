@@ -1,5 +1,5 @@
 # Bulat Faizrakhmanov
-Backend engineer. I write on Go, C++, JS.
+Backend dev. I write on Go, C++, JS.
 <!--
 **btfv/btfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
