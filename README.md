@@ -1,7 +1,5 @@
 # Bulat Faizrakhmanov
 Backend dev. I write on Go, C++, JS.
-## Stats
-<img src="https://wakatime.com/share/@2ce17f58-c8e1-4437-8bb6-f4bbdd1fa7cb/109cbd82-9799-4eb5-bec8-93208b4b061f.svg" width="50%"></img>
 <!--
 **btfv/btfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
