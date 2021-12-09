@@ -1,5 +1,5 @@
 # Bulat Faizrakhmanov
-Backend dev. I write on JS, Go, C++.
+Backend dev. Mainly focused on Typescript.
 
 My Projects:
 - [VK Mini App (Lenses Calendar).](https://vk.com/app7831897_152785695) Frontend on React + Redux. Backend on Node.js (Express) + Redis + MongoDB.
