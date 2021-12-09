@@ -4,6 +4,7 @@ Backend dev. I write on JS, Go, C++.
 My PET Projects:
 - [VK Mini App (Lenses Calendar).](https://vk.com/app7831897_152785695) Frontend on React + Redux. Backend on Node.js (Express) + Redis + MongoDB.
 - [Online School App LMS.](https://btfv-app-student-client.herokuapp.com/) Frontend on React + Redux. Backend on Node.js (Express) + Redis + MongoDB.
+- [Mailing service.] Microservice which reсeives messages from Apache Kafka and does mailing through http request to vk api.
 
 <!--
 **btfv/btfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
