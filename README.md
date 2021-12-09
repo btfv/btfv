@@ -6,6 +6,7 @@ My Projects:
 - [Online School App LMS.](https://btfv-app-student-client.herokuapp.com/) Frontend on React + Redux. Backend on Node.js (Express) + Redis + MongoDB.
 - [Mailing service.](https://github.com/btfv/mailing_service/) Microservice which reсeives messages from Apache Kafka and does mailing through http request to vk api.
 - [Tanks Game.](https://github.com/btfv/TanksGame) My uni coursework. "Tanks" game written on C++ using SDL graphics library.
+- [Go Rest API example.](https://github.com/btfv/school_app_api) This is educational project, where I learned SQL (Postgres) and a bit of Go.
 
 <!--
 **btfv/btfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
